@@ -1,0 +1,22 @@
+Here are short activities to practice each type of UML structural diagram:
+
+Scenario1 : Design a class diagram for a University Management System that includes classes such as Student, Professor, Course, and Department. Define the attributes and methods for each class and illustrate the relationships between them, including associations, generalizations, and aggregations.
+Objective: To understand how to model the static structure of a system by identifying classes and their relationships.
+
+Scenario 2: Create an object diagram that represents a specific instance of the system. For example, instantiate objects for a particular student enrolled in a course taught by a professor within a department. Show the state of these objects at a specific point in time.
+Objective: To demonstrate how instances of classes relate to each other at a particular moment, reflecting the system's state.
+
+
+Scenario 3: Organize the components of the University Management System into packages. For instance, group related classes into packages like UserManagement (containing Student and Professor classes), CourseManagement (containing Course and Department classes), and Administration. Illustrate the dependencies between these packages.
+Objective: To learn how to group related classes into packages and depict the dependencies among them, enhancing system modularity.
+
+Scenario 4: Develop a component diagram that outlines the major software components of the University Management System, such as User Interface, Database, Authentication Service, and Course Management Module. Show how these components interact and depend on each other.
+Objective: To understand the organization and relationships of different software components within a system.
+
+
+Scenario 5: Create a composite structure diagram for the Course class, detailing its internal structure. Include parts like Syllabus, Schedule, and Assessment. Show how these parts collaborate within the Course class and their interactions with external entities like Student and Professor.
+Objective: To explore the internal structure of a class and how its parts collaborate to achieve the desired functionality.
+
+
+Scenario 6: Design a deployment diagram for the University Management System, illustrating the physical deployment of software artifacts. Include nodes such as Web Server, Application Server, and Database Server. Show the associations between these nodes and the software components deployed on them.
+Objective: To visualize the physical deployment of software components on hardware nodes, understanding the system's infrastructure.
